@@ -1,2 +1,2 @@
 # QueenOTJ-World
-This is my 2nd repository here. Explore with me.
+I'm a graduate new but passionate about  frond end development 
